@@ -1,7 +1,12 @@
 # 첫 웹페이지 구성
 
 Python, Html/Css, Linux, Json 을 기초적으로 배운후 부트스트랩을 이용하여 만든 첫 웹페이지
+
+Front/Back: Pycharm
 Database: Robo3T
+Domain: 도메인 가비아
+FileUpload/Linux: Filezilla
+Server: Amazon
 
 # 배운점
 
